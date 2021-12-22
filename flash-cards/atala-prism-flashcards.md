@@ -2,7 +2,7 @@
 
 ## How is a DID represented?
 [#appp-week01]()
-Globally unique URI
+Globally unique URI.
 
 ## What can a DID identify?
 [#appp-week01]()
@@ -10,11 +10,13 @@ Person, organization, thing, data model, abstract entity, ... all via an URI.
 
 ## What is a DID-Controller?
 [#appp-week01]()
-The controller has control over the DID.<br>I.e. he owns the private key of the master key of the DID.
+The controller has control over the DID.<br>
+I.e. he owns the private key of the master key of the DID.
 
 ## How is a DID represented on the Cardano blockchain?
 [#appp-week01]()
-Each DID associated with list of public keys, and a so called master-key.<br>The controller must own the private key of the master key.&nbsp;
+Each DID associated with list of public keys, and a so called master-key.<br>
+The controller must own the private key of the master key.
 
 ## How does a DID look like?
 [#appp-week01]()
@@ -73,15 +75,15 @@ Self-sovereign identity
 
 ## Describe SSI (Self-sovereign identity) by using an example
 [#appp-w1-firechat]()
-If you talk on the internet, you need to talk to somebody through "somebody else". Like through facebook, Google, Zoom, ... . There is security issue.
+If you talk on the internet, you need to talk to somebody through "somebody else". Like through facebook, Google, Zoom, ... . There is a security issue.
 SSI puts back the control to the party.
 
 ## Can SSI help me to, e.g., protect non-needed data from my driving licensed when I use my license is to show how old I am (e.g. at a bar)?
 Yes.
 
-## What is DID com?
+## What is DIDComm?
 [#appp-w1-firechat]()
-Channel where two entities, identified by DIDs, privately communicate.
+Channel where two entities, identified by DIDs, can privately communicate.
 
 ## What can you do with a DID?
 [#appp-week02]()
@@ -241,7 +243,7 @@ Issuer and Verifier
 
 ## Who uses the Trust Registry?
 [#appp-week03]()
-The Verifier
+The Verifier and the Holder.
 
 ## Why is the Verifier listed in the Trust Registry?
 [#appp-week03]()
